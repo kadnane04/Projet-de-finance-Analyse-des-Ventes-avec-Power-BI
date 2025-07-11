@@ -1,4 +1,4 @@
-# 📊 Dashboard Power BI – Analyse des Ventes Globales
+# 📊 Dashboard Projet Finance  – Analyse des Ventes Globales avec Power BI
 
 Ce projet est une visualisation interactive créée avec Power BI à partir d’un jeu de données Excel contenant des informations détaillées sur les ventes, les segments de marché, les réductions, les profits et les performances par pays.
 
@@ -21,11 +21,6 @@ Le tableau de bord est composé de **deux pages principales** :
 
 Cette page présente les indicateurs de performance globaux à travers :
 - Des **cartes KPI** : total des ventes, profits, unités vendues, taux de réduction moyen, nombre de pays.
-- Une **carte géographique des ventes par pays**.
-- Des graphiques pour visualiser :
-  - La répartition des ventes par segment,
-  - Les produits les plus vendus,
-  - L’évolution des ventes au fil du temps.
 
 ### 🔹 Page 2 – Analyse détaillée
 
