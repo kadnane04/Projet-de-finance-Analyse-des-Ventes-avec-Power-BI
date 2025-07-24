@@ -39,8 +39,6 @@ Le fichier source est un fichier Excel contenant les colonnes suivantes :
 - `Manufacturing Price`, `Sale Price`, `Gross Sales`, `Discounts`,
 - `Sales`, `COGS`, `Profit`, `Date`, `Month Number`, `Month Name`, `Year`.
 
-> 🔐 **NB :** Les données ont été anonymisées et sont utilisées uniquement à des fins de formation/portfolio.
-
 ---
 
 ## 🛠️ Technologies utilisées
